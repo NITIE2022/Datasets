@@ -1,0 +1,101 @@
+SupplierName,CarMaker,CarModel,CarColor,CarModelYear,CarPrice,Sales
+Edgetag,Chevrolet,Corvette,Indigo,1953,532923.48,890076.42
+Zoomzone,Pontiac,Grand Prix,Aquamarine,1962,784238.63,862877.87
+Feednation,Chevrolet,Corvette,Purple,1962,600728.74,775084.2
+Feedmix,Ford,Galaxie,Red,1964,505333.49,974787.89
+Yodo,Austin,Mini Cooper,Indigo,1964,717807.54,777048.56
+Feedbug,Volkswagen,Beetle,Orange,1965,769865.36,778363.84
+Centizu,Mercury,Cougar,Aquamarine,1967,726377.48,745537.8
+Kwilith,Chevrolet,Camaro,Khaki,1967,689570.61,807335.29
+Yabox,Chevrolet,Bel Air,Goldenrod,1967,540948.38,796675.88
+Fivespan,Pontiac,Bonneville,Indigo,1968,521774.37,826583.87
+Innotype,Dodge,Charger,Violet,1969,674759.43,956921.94
+Bubblemix,Chevrolet,Camaro,Maroon,1969,726527,781387.1
+Divavu,Chevrolet,Camaro,Goldenrod,1969,527560.44,811729
+Oloo,Chevrolet,Camaro,Turquoise,1970,574287.61,808876.7
+Divanoodle,Ford,Mustang,Puce,1970,674685.37,800465.3
+Gigazoom,Pontiac,GTO,Pink,1970,696179.72,858307.07
+Yoveo,Chevrolet,Vega,Yellow,1971,727957.25,819739.38
+Vinte,Toyota,Celica,Red,1976,747743.24,724824.7
+Yakidoo,MG,MGB,Khaki,1977,701700.99,831134.31
+Flashdog,Chevrolet,Caprice,Fuscia,1977,584013.95,919628.58
+Meembee,Chevrolet,Camaro,Turquoise,1977,682006.48,966408.44
+Skiptube,Pontiac,Grand Prix,Fuscia,1978,720963.77,820595.53
+Skidoo,Nissan,280ZX,Yellow,1979,705912.16,898872.18
+Browseblab,Chevrolet,Citation,Teal,1980,754141.69,977477.16
+Oyonder,Plymouth,Reliant,Purple,1981,603300.58,872255.78
+Skyndu,Pontiac,Grand Prix,Indigo,1982,592096.26,925166.65
+Rhyloo,Pontiac,Grand Prix,Red,1983,695215.79,740992.19
+Quaxo,Pontiac,Sunbird,Crimson,1983,608562.22,819189.22
+Npath,Dodge,Daytona,Goldenrod,1984,565504.68,709349.55
+Tagcat,Pontiac,Fiero,Violet,1984,757472.62,708510.59
+Mydeo,Buick,Electra,Indigo,1984,660346.54,721969.72
+Aivee,Mercedes-Benz,E-Class,Puce,1984,654986.52,724812.76
+Buzzster,Pontiac,Firebird,Purple,1984,607372.3,761228.77
+Browsedrive,Buick,Skyhawk,Puce,1984,501528.57,848881.86
+Lazzy,Pontiac,1000,Violet,1984,615803.61,723933.99
+Dabtype,Ford,Ranger,Aquamarine,1984,705287.01,748821.37
+Fanoodle,Volkswagen,Jetta,Turquoise,1984,795403.28,935827.84
+Lazzy,Honda,Accord,Maroon,1985,744236.27,985763.8
+Devshare,Volkswagen,Cabriolet,Goldenrod,1985,777674.47,736657.75
+Linkbridge,Pontiac,Firebird,Crimson,1985,654943.48,733391.5
+Divanoodle,Suzuki,SJ,Blue,1985,674310.63,839486.16
+Miboo,Pontiac,Bonneville,Blue,1985,710786.2,780696.77
+Voomm,Honda,Accord,Teal,1985,521198.62,716417.91
+Rhyzio,Mitsubishi,Starion,Aquamarine,1985,779995.68,747744.55
+Youbridge,Volkswagen,Scirocco,Purple,1985,585686.01,915764.49
+Avavee,Ford,Ranger,Aquamarine,1985,755070.16,825703.77
+Avaveo,Subaru,XT,Teal,1985,686586.66,847308.19
+Flipbug,Buick,Somerset,Mauv,1985,538273.2,967548.35
+Eamia,Honda,CR-X,Goldenrod,1985,573485.27,813997.82
+Midel,Ford,Tempo,Mauv,1985,524291.69,906147.82
+Fadeo,Suzuki,SJ,Crimson,1985,641960.9,920449.05
+Skibox,Mazda,B2000,Green,1985,752822.39,828364.86
+Devpoint,Mercury,Lynx,Khaki,1985,710759.09,852889.61
+Feedfire,Ford,LTD Crown Victoria,Mauv,1985,690369.07,965516.53
+Jayo,Mercedes-Benz,S-Class,Blue,1985,633339.32,938473.12
+Skipstorm,Mitsubishi,Truck,Maroon,1985,538074.63,849317.03
+Quimba,Mercedes-Benz,E-Class,Puce,1985,620916.42,935254.87
+Mynte,Pontiac,6000,Yellow,1985,528568.02,775664.96
+Lajo,Porsche,944,Yellow,1985,545924.57,724844.48
+Cogilith,Pontiac,Bonneville,Maroon,1986,789868.88,704107.04
+Leexo,Ford,Taurus,Mauv,1986,512225.67,891157.32
+Agivu,Buick,Somerset,Puce,1986,710069.75,951537.81
+Meejo,Pontiac,Parisienne,Khaki,1986,575871.4,861487.93
+Ntags,Pontiac,Bonneville,Turquoise,1986,608936.64,853905.78
+Zoozzy,Land Rover,Range Rover,Crimson,1986,569435.74,981365.77
+Skyble,Toyota,MR2,Pink,1986,792030.29,703612.23
+Jamia,Pontiac,Parisienne,Red,1986,797632.01,879851.55
+Meetz,Mercury,Capri,Pink,1986,702527.3,892599.94
+Tanoodle,Mitsubishi,Cordia,Mauv,1986,669311.28,769301.23
+Brainbox,Saab,9000,Puce,1987,592913.25,891565.81
+Jamia,Ford,EXP,Crimson,1987,634313.95,719142.81
+Kwimbee,Volkswagen,Jetta,Yellow,1987,741224.47,938479.84
+Eimbee,Audi,4000,Fuscia,1987,648966.12,862363.21
+Zoombeat,Mitsubishi,Truck,Pink,1987,732226.47,890807.06
+Trilith,Mitsubishi,Starion,Yellow,1987,755397.16,877668.97
+Shufflebeat,Ford,Mustang,Yellow,1987,539008.1,991577.15
+Skyvu,Buick,Riviera,Indigo,1987,554071.85,858393.4
+Ntag,Mitsubishi,L300,Goldenrod,1987,634247.75,918714.52
+Mycat,Volkswagen,Scirocco,Aquamarine,1987,721311.59,924086.63
+Wordtune,Pontiac,Gemini,Orange,1987,549809.01,886334.01
+Linkbuzz,Ford,Mustang,Violet,1987,735244.7,746554.82
+Edgeify,Buick,Somerset,Turquoise,1987,780201.47,952627.07
+Twimbo,Audi,5000S,Aquamarine,1987,550033.01,995483.27
+Tazz,Pontiac,Safari,Red,1987,750395.71,788082.02
+Trilia,Saab,900,Orange,1987,766717.6,752502.57
+Bluejam,Ford,Bronco,Red,1988,558871.72,945409.64
+Twiyo,Volkswagen,Type 2,Red,1988,571972.07,777987.42
+Realbridge,Lotus,Esprit,Violet,1988,667579.26,886738.54
+Riffwire,Honda,Accord,Turquoise,1988,763573.51,861041.91
+Rhynyx,Lincoln,Continental Mark VII,Purple,1988,790037.34,770340.35
+Jayo,Mitsubishi,Galant,Indigo,1988,702080.03,985957.59
+Aivee,Pontiac,Grand Am,Fuscia,1988,511763.96,981485.26
+Demimbu,Audi,5000S,Aquamarine,1988,688837.92,996374.15
+Abatz,Mercedes-Benz,W201,Red,1988,562065.32,978500.72
+Skilith,Mitsubishi,Tredia,Puce,1988,711337.31,970782.56
+Yodel,Ford,Tempo,Turquoise,1988,686028.43,927054.81
+Feedfire,Subaru,Justy,Crimson,1988,798573.59,902866.47
+Youfeed,Subaru,Justy,Yellow,1988,770428.67,843893.64
+Babbleset,Buick,Skylark,Purple,1989,575307.81,885763.43
+Skivee,Subaru,XT,Maroon,1989,771615.41,950938.83
